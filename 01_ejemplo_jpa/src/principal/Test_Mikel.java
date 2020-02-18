@@ -5,7 +5,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 
-import entidades.Contacto;
+import model.Contacto;
 
 public class Test_Mikel {
 
